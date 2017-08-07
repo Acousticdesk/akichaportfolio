@@ -1,0 +1,1 @@
+const styles = require('../styles/base/main.sass');
